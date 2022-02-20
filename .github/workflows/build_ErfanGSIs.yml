@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2072_A_1.18.15-update-full_1643096384.zip
+  ROM_URL: https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2049_A_1.19.15-update-full_1643336931.zip
   ROM_NAME: Generic Pixel
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
